@@ -7,6 +7,8 @@ stamp-h1
 .deps
 *.lo
 *.o
+*.gcno
+*.gcda
 .libs/
 cjpeg
 djpeg
